@@ -661,9 +661,8 @@
 				#header nav ul li a {
 					border: solid 1px transparent;
 					color: inherit;
-					display: inline-block;
-					line-height: 1em;
-					padding: 0.6em 0.75em;
+					line-height: 5.5em;
+					padding: 0.6em 0.75em; 
 					text-decoration: none;
 				}
 
@@ -868,7 +867,7 @@
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
-		padding: 7em 0;
+		padding: 7em 0 0 0;
 	}
 
 		#main > :last-child {
