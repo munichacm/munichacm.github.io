@@ -828,14 +828,14 @@
 				display: inline-block;
 				border-bottom: solid 2px;
 				border-top: solid 2px;
-				margin: 0 0 2em 0;
+				margin: 2em 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
 
 				#banner .inner header h2 {
 					border-bottom: solid 2px;
 					border-top: solid 2px;
-					font-size: 2.5em;
+					font-size: 1em;
 					font-weight: 900;
 					letter-spacing: 0.2em;
 					margin: 0;
